@@ -1,0 +1,12 @@
+.navbar-bg {
+    background-color: #0C0C82 ;
+}
+.nav-link {
+    color: #76d3da!important;
+}
+.nav-item .cta-btn--resume {
+    border: none!important;
+}
+#hero .cta-btn, #hero .cta-btn--hero {
+    border-radius: 4px!important;
+}
